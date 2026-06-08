@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rosegarden29.github.io/rainbow-bar/sitemap.xml
